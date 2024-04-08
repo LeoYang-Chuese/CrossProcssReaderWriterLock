@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReaderWriterOperationProcess": {
+      "commandName": "Project",
+      "commandLineArgs": "99999 true true"
+    }
+  }
+}
