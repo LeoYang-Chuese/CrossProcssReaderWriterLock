@@ -1,3 +1,6 @@
+### [中文](https://github.com/LeoYang-Chuese/CrossProcssReaderWriterLock/blob/master/README.CN.md)
+
+
 # CrossProcessWriteLock: A Simple Implementation of Cross-Process Write Lock
 
 ## Core Idea
